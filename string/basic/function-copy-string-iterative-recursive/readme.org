@@ -1,8 +1,15 @@
 ** Function to copy string (Iterative and Recursive)
-- Given two strings, copy one string to other using recursion.
+- Given two strings, copy one string to other using recursion. So the problem
+  statement is very clear but still there are assumptions. I am considering it
+  as a algorithm problem where we need to test our recursion knowledge.
+- In the original problem statment it needs to be done in iterative and
+  recursive way. I have provided the recursive solution. I know you can
+  manupulate it and have the iterative solution.
+- I am not handling the strings globally. that can be done as i said I just
+  tried to test recursive knowledge here.
 
 #+BEGIN_SRC
-Input :  s1 = "geeksforgeeks"
+Input :  s1 = "hello there whats up"
          s2 = ""
-Output : s2 = "geeksforgeeks"
+Output : s2 = "hello there whats up"
  #+END_SRC
