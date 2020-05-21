@@ -1,0 +1,8 @@
+** Function to copy string (Iterative and Recursive)
+- Given two strings, copy one string to other using recursion.
+
+#+BEGIN_SRC
+Input :  s1 = "geeksforgeeks"
+         s2 = ""
+Output : s2 = "geeksforgeeks"
+ #+END_SRC
